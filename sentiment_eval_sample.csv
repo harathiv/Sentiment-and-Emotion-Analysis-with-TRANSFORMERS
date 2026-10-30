@@ -1,0 +1,21 @@
+text,label
+"I loved the movie and the ending was fantastic.",POSITIVE
+"The service was terrible and I left angry.",NEGATIVE
+"This was the best day of my life.",POSITIVE
+"I feel disappointed and upset.",NEGATIVE
+"The presentation was excellent and clear.",POSITIVE
+"I am worried that this will fail.",NEGATIVE
+"I am thrilled to share this news.",POSITIVE
+"The experience was frustrating and slow.",NEGATIVE
+"I really enjoyed the product.",POSITIVE
+"The staff was rude and unhelpful.",NEGATIVE
+"This update made me feel optimistic.",POSITIVE
+"I am nervous and uncertain about the decision.",NEGATIVE
+"The event was wonderful and inspiring.",POSITIVE
+"The quality was poor and disappointing.",NEGATIVE
+"I had a great time with my family.",POSITIVE
+"I am afraid of making the wrong choice.",NEGATIVE
+"This idea is brilliant and creative.",POSITIVE
+"The outcome was miserable and frustrating.",NEGATIVE
+"I feel happy and confident today.",POSITIVE
+"I hate this situation and want it to end.",NEGATIVE
